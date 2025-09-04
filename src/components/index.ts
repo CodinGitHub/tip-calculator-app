@@ -4,3 +4,4 @@ export { Input } from './input';
 export { PercentButton } from './percent-button';
 export { Totals } from './totals';
 export { Button } from './button';
+export { CustomButton } from './custom-button';
